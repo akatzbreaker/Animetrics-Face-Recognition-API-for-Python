@@ -9,6 +9,7 @@ View Code here: https://gist.github.com/akatzbreaker/8498186
 
 
 Steps:
+
 1. Create a Key at http://api.animetrics.com/
 
 2. You can view the Documentation to get a General Idea
